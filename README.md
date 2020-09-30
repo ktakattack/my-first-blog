@@ -1,2 +1,2 @@
-# my-first-blog
-This repository is from a Django workshop.
+# python-web-app
+Homework Assignment #1 for Web Programming 1
